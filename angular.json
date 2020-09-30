@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BTTH2tiep"
+    }
+  },
+  "defaultProject": "BTTH2tiep",
+  "cli": {
+    "analytics": "3b9d1c10-775f-4f8c-b176-c420785469f0"
+  }
 }
